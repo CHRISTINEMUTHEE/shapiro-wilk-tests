@@ -1,6 +1,7 @@
 # shapiro-wilk-tests
 Shaprio Wilk tests for normality
 
+https://docs.google.com/document/d/18q4hYuT4AXF1nrGsxX1V8Qh47lYplLGLNzZMN14o-bI/edit
 
 The SW test is to check whether the sampled data comes from a normal distribution. By applying this test to our dataset of collected user predictions we can test whether the users are aligning themselves around some specific mean. If they are not, then it means there is no consensus among the crowd.
 
